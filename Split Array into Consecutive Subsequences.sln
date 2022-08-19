@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split Array into Consecutive Subsequences", "Split Array into Consecutive Subsequences\Split Array into Consecutive Subsequences.csproj", "{C9A1FFE1-231B-415B-BD2A-26A5D034A205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A1FFE1-231B-415B-BD2A-26A5D034A205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A1FFE1-231B-415B-BD2A-26A5D034A205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A1FFE1-231B-415B-BD2A-26A5D034A205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A1FFE1-231B-415B-BD2A-26A5D034A205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {882E3965-E2A4-4C18-AAA2-4147444E7580}
+	EndGlobalSection
+EndGlobal
